@@ -22,3 +22,30 @@ Create the homepage (index.html) for the TechCon 2024 conference website, demons
 
 * Use a <footer> tag for the bottom part of the webpage.
 * Include copyright information relevant to the event and the current year. Ensure this information is simple and clear. Make sure to explicitly add the text copyright.
+
+
+1. Creating the About Page for TechCon 2024 Conference Website
+mandatory
+
+// Objective:
+Develop the About page (about.html) for the TechCon 2024 conference, highlighting the history, mission, and notable past speakers of the conference through well-structured HTML content and embedded media.
+
+// Requirements:
+* Header:
+
+    * Utilize a <header> tag to contain the top section of the page.
+    * Place the page title “About TechCon 2024” within an <h1> tag for prominence.
+    * Include the same navigation menu as the homepage using a <nav> tag, with links to Home, Schedule, Register, and Contact. Each link should be properly directed to the respective HTML files.
+
+* Main Content:
+
+    * Use a <main> tag to define the core content of the webpage.
+    * Divide the content into multiple <article> sections, each dedicated to a different aspect of the conference:
+    * History: An article detailing the origins and evolution of TechCon, enhanced with historical images (<img> tags with appropriate alt attributes).
+    * Mission: A section that explains the goals and driving principles of the conference. Include any relevant motivational images or icons.
+    * Past Speakers: Showcase notable speakers from previous years with short biographies and their contributions to the tech industry. Use <img> tags for speaker photos, ensuring each has an alt attribute describing the person.
+
+* Footer:
+
+    * The footer should be consistent across all pages, using a <footer> tag.
+    * Include copyright information, mirroring the layout and content from the homepage.
